@@ -54,6 +54,9 @@ AI-powered, gamified tourism app — quests, maps, and itinerary generation.
 #### **Hermit**  
 Image recognition + recipe generator for leftover food using Roboflow.
 
+### **TreblAI**
+Web Based AI-Powered Music Recommendation Software and Automatic Playlist Generation
+
 ---
 
 ### Goals for 2025
