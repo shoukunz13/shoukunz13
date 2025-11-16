@@ -25,27 +25,24 @@ targeting University campuses first and expanding later on.
 
 ---
 
-### Skills
+### 🛠️ Tech Stack
 
-####  Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sqlite,typescript,swift" />
+**Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,flutter,java" />
+</p>
 
----
-
-#### Frameworks & Tools
-**Advanced**  
-<img src="https://skillicons.dev/icons?i=flutter,flutterflow,supabase, firebase, tensorflow, java, vscode, git" />
-
----
-
-#### Software / Platforms
-<img src="https://skillicons.dev/icons?i=jira,figma" />  
-<img src="https://img.shields.io/badge/TestFlight-0D96F6?logo=apple&logoColor=white&style=for-the-badge" />  
-<img src="https://img.shields.io/badge/DaVinci_Resolve-1F2430?logo=davinciresolve&logoColor=FFBF00&style=for-the-badge" />  
-<img src="https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white&style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/AWS_Academy_Cloud_Foundations-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
+**AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://img.shields.io/badge/YOLOv8-vision-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/LLMs-Gemini%20%7C%20OpenAI-black?style=flat-square" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode" />
+</p>
 
 ---
 
